@@ -7,10 +7,10 @@
 .img{
 	padding: 10px;
 	background-color: #ffffff;
-	border: 5px solid #ffffff;
-	max-width: 30%;
+	border: 2px solid #ffffff;
+	max-width: 25%;
 	position: absolute;
-	right: 100px;
+	right: 30px;
 	top: 200px;
 }
 .caja{
